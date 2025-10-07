@@ -1,0 +1,17 @@
+{
+    "python-envs.pythonProjects": []
+}
+
+{
+    "python.defaultInterpreterPatch": ".venv/bin/python"
+    "python.analyzer.typeCheckingMode": "basic"
+    "pythonformatting.provider": "black",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
+
+    "ruff.enable": true,
+    "isrot.check": true
+    
+}
