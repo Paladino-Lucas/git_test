@@ -1,0 +1,21 @@
+# Definindo as variáveis
+x = 5
+y = 10
+
+# Calculando a soma
+soma = x + y
+
+# Calculando o quadrado da soma
+quadrado = soma ** 2
+
+# Exibindo resultados
+print("x =", x)
+print("y =", y)
+print("Soma (x + y) =", soma)
+print("Quadrado da soma (x + y)^2 =", quadrado)
+
+# Exibindo valores em binário
+print("x em binário:", bin(x))
+print("y em binário:", bin(y))
+print("(x + y)^2 em binário:", bin(quadrado))
+

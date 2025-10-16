@@ -1,7 +1,6 @@
 {
     "python-envs.pythonProjects": []
 }
-
 {
     "python.defaultInterpreterPatch": ".venv/bin/python"
     "python.analyzer.typeCheckingMode": "basic"
