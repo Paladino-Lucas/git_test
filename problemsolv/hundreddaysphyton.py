@@ -20,4 +20,6 @@ print("World")
 print("Hello", end=' ')
 print("World")
 
+name=Lucas
+print(name)
 
